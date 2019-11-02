@@ -1,0 +1,4 @@
+;function
+;r=1.13
+;x=10+r
+;drawbox(red)*x
